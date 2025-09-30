@@ -1,0 +1,45 @@
+{
+  "term": "January IAP",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ]
+  ],
+  "legacy_uid": "c5c415d3-0c05-9b05-096e-bd20a2c5ccbb",
+  "instructors": {
+    "content": [
+      "ba2d6af0-5732-1628-5240-0083b3896ddb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ff9f3535-544a-7203-fec3-78eacb69b41f",
+    "website": "17-s916-all-the-presidents-generals-civil-military-relations-in-the-us-and-beyond-january-iap-2020"
+  },
+  "course_title": "All the President's Generals: Civil-Military Relations in the US and Beyond",
+  "hide_download": true,
+  "course_description": "This course introduces the unique characteristics of militaries and explores the roles they play in the societies they are constructed to defend, with a special focus on the relationships between the military and their civilian leaders and popular publics. Topics include a modern history of relations between US presidents and the military, coups and military governments, public trust in the military, racial integration of the military, and the military-industrial (and tech!) complex.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.S916",
+  "course_image_thumbnail": {
+    "content": "4ab9c729-977b-f139-e259-da1ff454bbc9",
+    "website": "17-s916-all-the-presidents-generals-civil-military-relations-in-the-us-and-beyond-january-iap-2020"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "5290dcb8-ab40-4487-a1cd-5afe5332cefb",
+  "site_short_id": "17.s916-january-iap-2020",
+  "site_url_path": "courses/17-s916-all-the-presidents-generals-civil-military-relations-in-the-us-and-beyond-january-iap-2020",
+  "title": "Course Metadata"
+}
