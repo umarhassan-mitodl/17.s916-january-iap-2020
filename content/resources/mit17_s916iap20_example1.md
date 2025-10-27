@@ -4,8 +4,6 @@ description: ''
 file: /courses/17-s916-all-the-presidents-generals-civil-military-relations-in-the-us-and-beyond-january-iap-2020/52d5b219d2b31aebabee1aa5ec4d504c_MIT17_S916IAP20_Example1.pdf
 file_size: 84094
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
